@@ -1,0 +1,22 @@
+.grid {
+    width: 200px;
+    height: 400px;
+    background-color: #C69DD2;
+
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.grid div {
+    height: 20px;
+    width: 20px;
+    /* background-color: #CC8B8C; */
+}
+
+.tetromino {
+    background-color: #A390E4;
+}
+
+/* .taken {
+    background-color: aquamarine;
+} */
